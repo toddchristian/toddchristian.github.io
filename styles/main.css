@@ -13,7 +13,7 @@ html, body {
     display: block;
 }
 
-h2 {
+.watermark {
     display: block;
     position: relative;
     margin-top: -30px;
@@ -28,4 +28,8 @@ h2 {
     -ms-user-select: none;
     user-select: none;
     cursor: default;
+}
+
+.secret-link {
+
 }
